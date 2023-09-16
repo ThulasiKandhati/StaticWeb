@@ -1,0 +1,11 @@
+Key
+Value
+Resolved value
+ImageId	ami-0ccb473bada910e74	-
+InstanceType	t2.micro	-
+KeyPairName	test	-
+ProjectId	pipeline	-
+Stage	-	-
+SubnetId	subnet-07a01c0206c3c978b	-
+VpcId	vpc-049108a6c7a324a87	-
+WebAppInstanceProfile	awscodestar-pipeline-WebAppInstanceProfile-lwOmb4PBsfKU	-

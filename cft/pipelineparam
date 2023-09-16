@@ -1,0 +1,8 @@
+CodeS3Bucket	****	-
+CodeS3Key	****	-
+InstanceType	t2.micro	-
+KeyPairName	test	-
+ProjectId	pipeline	-
+RepositoryName	pipeline	-
+SubnetId	subnet-07a01c0206c3c978b	-
+VpcId	vpc-049108a6c7a324a87	-
